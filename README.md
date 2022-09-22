@@ -18,6 +18,7 @@ Students will be able to:
 Technology Requirements  
 Python 3.6 to 3.9  
 
+![image](https://user-images.githubusercontent.com/73743263/191850994-365b8b1b-53bb-467a-a9ab-810b71721751.png)
 
   
 Figure 1  
